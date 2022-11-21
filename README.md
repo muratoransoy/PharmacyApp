@@ -1,2 +1,2 @@
 # PharmacyApp
-01-Dug sales application by patient name
+01-Drug sales app by static patient name without database
