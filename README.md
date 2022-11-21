@@ -1,2 +1,2 @@
 # PharmacyApp
-01-Drug sales app by static patient name without database
+01-C# Drug sales app by static patient name without database
