@@ -1,0 +1,15 @@
+C:\Users\murat\Desktop\ERP-Ders\ödev\EczaneAppMuratOransoy\EczaneAppMuratOransoy\bin\Debug\EczaneAppMuratOransoy.exe.config
+C:\Users\murat\Desktop\ERP-Ders\ödev\EczaneAppMuratOransoy\EczaneAppMuratOransoy\bin\Debug\EczaneAppMuratOransoy.exe
+C:\Users\murat\Desktop\ERP-Ders\ödev\EczaneAppMuratOransoy\EczaneAppMuratOransoy\bin\Debug\EczaneAppMuratOransoy.pdb
+C:\Users\murat\Desktop\ERP-Ders\ödev\EczaneAppMuratOransoy\EczaneAppMuratOransoy\obj\Debug\EczaneAppMuratOransoy.csproj.AssemblyReference.cache
+C:\Users\murat\Desktop\ERP-Ders\ödev\EczaneAppMuratOransoy\EczaneAppMuratOransoy\obj\Debug\EczaneAppMuratOransoy.csproj.SuggestedBindingRedirects.cache
+C:\Users\murat\Desktop\ERP-Ders\ödev\EczaneAppMuratOransoy\EczaneAppMuratOransoy\obj\Debug\EczaneAppMuratOransoy.Form1.resources
+C:\Users\murat\Desktop\ERP-Ders\ödev\EczaneAppMuratOransoy\EczaneAppMuratOransoy\obj\Debug\EczaneAppMuratOransoy.Properties.Resources.resources
+C:\Users\murat\Desktop\ERP-Ders\ödev\EczaneAppMuratOransoy\EczaneAppMuratOransoy\obj\Debug\EczaneAppMuratOransoy.csproj.GenerateResource.cache
+C:\Users\murat\Desktop\ERP-Ders\ödev\EczaneAppMuratOransoy\EczaneAppMuratOransoy\obj\Debug\EczaneAppMuratOransoy.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\ERP-Ders\ödev\EczaneAppMuratOransoy\EczaneAppMuratOransoy\obj\Debug\EczaneAppMuratOransoy.exe
+C:\Users\murat\Desktop\ERP-Ders\ödev\EczaneAppMuratOransoy\EczaneAppMuratOransoy\obj\Debug\EczaneAppMuratOransoy.pdb
+C:\Users\murat\Desktop\ERP-Ders\ödev\EczaneAppMuratOransoy\EczaneAppMuratOransoy\obj\Debug\EczaneAppMuratOransoy.ilac.resources
+C:\Users\murat\Desktop\ERP-Ders\ödev\EczaneAppMuratOransoy\EczaneAppMuratOransoy\obj\Debug\EczaneAppMuratOransoy.HastaKayit.resources
+C:\Users\murat\Desktop\ERP-Ders\ödev\EczaneAppMuratOransoy\EczaneAppMuratOransoy\obj\Debug\EczaneAppMuratOransoy.ilackaydet.resources
+C:\Users\murat\Desktop\ERP-Ders\ödev\EczaneAppMuratOransoy\EczaneAppMuratOransoy\obj\Debug\EczaneAppMuratOransoy.ilacsatis.resources
